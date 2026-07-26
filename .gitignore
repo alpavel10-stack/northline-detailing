@@ -43,6 +43,7 @@ next-env.d.ts
 /work/
 /.pnpm-store/
 /.agents/
+/.openai/.openai/
 
 # Local composition references (not part of the published site)
 /1.png
